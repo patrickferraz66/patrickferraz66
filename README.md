@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/patrickferraz66">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnivso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnivso&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickferraz66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickferraz66&layout=compact&langs_count=8&theme=dark"/>
 </div>
     
   <h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
