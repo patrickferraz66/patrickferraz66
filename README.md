@@ -17,7 +17,7 @@
 - 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
 
 
-- 👯 <strong> I'm looking to collaborate </strong> </br> Any opportunity attached with Web Developing and Game Modding (One of my hobbies).
+- 👯 <strong> I'm looking to collaborate </strong> </br> Any opportunity attached with Web Developing.
 
 
 - 🎮 <strong> Hobbies </strong> </br> Play my video games, watch movies,series and anime, read some mangas and enjoy some mangas.
