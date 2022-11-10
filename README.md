@@ -20,13 +20,13 @@
 - 👯 <strong> I'm looking to collaborate </strong> </br> Any opportunity attached with Web Developing and Game Modding (One of my hobbies).
 
 
-- 🎮 <strong> Hobbies </strong> </br> I have a lot of hobbies, so I'll say only three: Play my video games, watch sci-fi movies and build some mods for Skyrim Special Edition (SKSE) and Dragon's Dogma Dark Arisen (DDDA).
+- 🎮 <strong> Hobbies </strong> </br> Play my video games, watch movies,series and anime, read some mangas and enjoy some mangas.
 
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/vinnivso">
+  <a href="https://github.com/patrickferraz66">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnivso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnivso&layout=compact&langs_count=8&theme=dark"/>
 </div>
